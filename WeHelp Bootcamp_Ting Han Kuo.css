@@ -1,16 +1,13 @@
 span{
     width: 40%;
     height: 50px;
-
     margin: auto;
     text-align: center;
     left:30%;
     position: fixed; top:0px;
-    
     background-color: white;
     font-size: 40px;
     padding:10px ;
-    float: inline-start;
 }
 @keyframes change-color{
     0% {background-color:rgb(144, 0, 255); color: rgb(249, 204, 2); }
