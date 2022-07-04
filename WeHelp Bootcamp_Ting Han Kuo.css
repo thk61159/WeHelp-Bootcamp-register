@@ -1,10 +1,10 @@
 span{
-    width: 50%;
+    width: 70%;
     height: 50px;
 
     margin: auto;
     text-align: center;
-    position: relative; left:25%;
+    position: relative; left:15%;
     position: fixed; top:0px;
     
     background-color: white;
