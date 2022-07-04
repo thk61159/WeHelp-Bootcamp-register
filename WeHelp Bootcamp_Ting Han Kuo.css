@@ -6,7 +6,7 @@ span{
     left:30%;
     position: fixed; top:0px;
     background-color: white;
-    font-size: 5%;
+    font-size: 250%;
     padding:10px ;
 }
 @keyframes change-color{
