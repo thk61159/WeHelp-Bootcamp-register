@@ -9,6 +9,9 @@ span{
     font-size: 2.5em;
     padding:10px ;
 }
+p{
+    text-align: justify;
+}
 @keyframes change-color{
     0% {background-color:rgb(144, 0, 255); color: rgb(249, 204, 2); }
     20% {background-color:rgb(249, 134, 2); color: rgb(249, 59, 59);}
