@@ -10,6 +10,7 @@ span{
     padding:10px ;
 }
 p{
+    text-align: left;
     text-align: justify;
 }
 @keyframes change-color{
