@@ -11,8 +11,9 @@ span{
 }
 p{
     text-align: left,justify;
-    
-   
+}
+h3{
+    text-align:center;
 }
 @keyframes change-color{
     0% {background-color:rgb(144, 0, 255); color: rgb(249, 204, 2); }
@@ -42,7 +43,7 @@ span:hover{
 
 
     background-color: white;
-    text-align: center;
+    text-align: left;
 
 }
 
