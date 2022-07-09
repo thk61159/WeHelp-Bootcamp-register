@@ -6,11 +6,12 @@ span{
     left:30%;
     position: fixed; top:0px;
     background-color: white;
-    font-size: 2.5em;
+    font-size: 250%;
     padding:10px ;
 }
 p{
-    text-align: left;
+    text-align: left,justify;
+    
    
 }
 @keyframes change-color{
